@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+data/
+graph.gexf
+*.xml
+*_metrics.txt
